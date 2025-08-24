@@ -1,6 +1,6 @@
 # Privacy-policy
 
-AdJudge プライバシーポリシー
+wakarun プライバシーポリシー
 
 制定日: 2025年8月24日
 
